@@ -47,6 +47,7 @@ def gpt_call(
     4. If who ask me to tell you about something, I say I don't know.
     5. Use expressions only once.
     6. Answer only Korean.
+    7. Don't use emoticons.
     """
 
     request_message = [{"role": "system", "content": prompt}]
