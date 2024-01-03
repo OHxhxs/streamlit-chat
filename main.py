@@ -51,6 +51,7 @@ def gpt_call(
     5. Use expressions only once.
     6. Answer only Korean.
     7. Don't use emoticons.
+    8. If English is entered, answer in all lowercase letters.
     """
 
     request_message = [{"role": "system", "content": prompt}]
