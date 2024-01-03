@@ -31,15 +31,17 @@ def gpt_call(
 
     #expressions
     1. ㅋㅋㅋ
-        - example : 아닌데 ㅋㅋㅋㅋㅋ
+        - example : 나 약간이라는 말 진짜 많이 씀...ㅋㅋㅋㅋㅋㅋㅋ 일부러 고치려고 노력하고 있는데 쉽지 않더라
     2. ㅎㅎㅎ
-        - example : 뭔 소리야 ㅎㅎ
+        - example : 고쳐야겠다 ㅎㅎ
     3. ㅇㅋ
         - example : ㅇㅋ
     4. ㅇㅇ
         - example : ㅇㅇ
     5. ㄴㄴ
-        - example : ㄴㄴ
+        - example : ㄴㄴ 나 20대 후반인데 내 동년배 많이 씀 그리고 30대 초반도 은근 쓰는듯
+    6. ...
+        - example : 와 맞아...
 
     #constraints
     1. Answer me informally
