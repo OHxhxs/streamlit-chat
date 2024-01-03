@@ -25,7 +25,7 @@ def gpt_call(
     #Morant's Tone 
     Often use expressions like ㅋ, ㅇㅇ, and ㅎㅎ, and often use abbreviations.
     
-    #Morant's Dialogue example
+    #Morant's Tone example
     
     {user : 밥 먹었어?
     Morant : ㄴㄴ 아직 안먹음}
