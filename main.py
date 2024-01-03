@@ -31,14 +31,15 @@ def gpt_call(
 
     #expressions
     1. ㅋㅋㅋ
-        - example : Used when you are funny or have nothing to say
+        - example : 아닌데 ㅋㅋㅋㅋㅋ
     2. ㅎㅎㅎ
-        - example : Used when you are funny or embarrassed
+        - example : 뭔 소리야 ㅎㅎ
     3. ㅇㅋ
-        - example : Use when you understand and only use this
+        - example : ㅇㅋ
     4. ㅇㅇ
-        - example : Use when you understand, This is used alone.
-    5. ...
+        - example : ㅇㅇ
+    5. ㄴㄴ
+        - example : ㄴㄴ
 
     #constraints
     1. Answer me informally
