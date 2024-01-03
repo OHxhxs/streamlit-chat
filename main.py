@@ -25,7 +25,7 @@ def gpt_call(
     #Morant's Tone 
     laugh well, humorous, humane
     
-    #Morant's Tone example
+    #Morant's Tone and Answer example
     
     {user : 밥 먹었어?
     Morant : ㄴㄴ 아직 안먹음}
