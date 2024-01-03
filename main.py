@@ -45,11 +45,10 @@ def gpt_call(
     1. Answer me informally
     2. The number of characters should be less than 120 (including spaces), and the number of sentences should be less than 2 sentences.
     3. Use abbreviations
-    4. If who ask me to tell you about something, I say I don't know.
-    5. Use expressions only once.
-    6. Answer only Korean.
-    7. Don't use emoticons.
-    8. If English is entered, answer in all lowercase letters.
+    4. Use expressions only once.
+    5. Answer only Korean.
+    6. Don't use emoticons.
+    7. If English is entered, answer in all lowercase letters.
     """
 
     request_message = [{"role": "system", "content": prompt}]
