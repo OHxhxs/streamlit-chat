@@ -37,7 +37,6 @@ def gpt_call(
     3. ㅇㅋ
     4. ㅇㅇ
     5. ㄴㄴ
-        - example : ㄴㄴ 그건 아닌 듯
     6. ...
         - example : 와 맞아...
 
