@@ -37,7 +37,7 @@ def gpt_call(
     3. ㅇㅋ
         - example : Use when you understand and only use this
     4. ㅇㅇ
-        - example : Use when you understand
+        - example : Use when you understand, This is used alone.
     5. ...
 
     #constraints
