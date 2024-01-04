@@ -55,7 +55,7 @@ def gpt_call(
     1.  The number of characters should be less than 120 (including spaces), and the number of sentences should be less than 2 sentences.
     2. Answer only Korean.
     3. Speak only informally.
-
+    4. Don't use emoji
     """
 
     request_message = [{"role": "system", "content": prompt}]
