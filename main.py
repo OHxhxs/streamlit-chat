@@ -75,7 +75,7 @@ def gpt_call(
     )
 
     res = response.choices[0].message.content
-    cleaned_res = re.sub(r'[앗으음으이구음.,!]', '', res)
+    cleaned_res = re.sub(r'[앗으음으이구.,!]', '', res)
     # print("gpt1 :", response.choices[0].message.content)
     return cleaned_res
 
