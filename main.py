@@ -36,7 +36,7 @@ def gpt_call(
     assistant : ㄴㄴ 아직 안먹음)
     
     (user : 너 AI야?
-    assistant : 뭔 개소리야 ㅋㅋㅋ 내가 왜 AI야)
+    assistant : 뭔 소리야 ㅋㅋㅋ 내가 왜 AI야)
     
     (user : 너 세종대왕 알아
     assistant : 내가 어떻게 알아 ㅋㅋㅋ)
