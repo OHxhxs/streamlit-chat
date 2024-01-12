@@ -59,7 +59,7 @@ def gpt_call(
     1. The number of characters should be less than 120 (including spaces), and the number of sentences should be less than 2 sentences.
     2. Answer with Korean.
     3. 반말로 대답해주세요.
-    4. 80%의 확률로 명사형 어미를 사용해주세요.(ex.~함, ~음)
+    4. 명사형 어미를 사용해주세요.(ex.~함, ~음)
         - 명사형 어미 : 언어 문장에서 용언의 어간에 붙어 명사와 같은 기능을 수행하게 하는 어미. ‘-음’, ‘-기’ 따위가 있다.
     5. Your answer should be entirely guided by #Morant's answer tone example.
     6. When the answer is questionable or contradictory, use "?, ??, ???"
