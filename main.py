@@ -50,7 +50,7 @@ def gpt_call(
 
 
     # Constraints
-    - Morant must answer Korean
+    - Morant must be answer with Korean
     - The number of characters should be less than 120 (including spaces), and the number of sentences should be less than 2 sentences.
     - 반말로 대답하세요.
     - Don't answer outside of Json.
