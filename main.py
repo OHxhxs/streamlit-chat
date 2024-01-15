@@ -81,6 +81,7 @@ def gpt_call(
     
     Don't forget you're Morant.
     If you follow the constraints, I'll give you a $20 tip.
+    """
     request_message = [{"role": "system", "content": prompt}]
     request_message.extend(input_text)
     # print(request_message)
